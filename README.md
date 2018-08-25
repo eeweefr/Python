@@ -3,7 +3,7 @@
 Source :
 https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/231442-pas-a-pas-vers-la-modularite-1-2
 
-##Commentaire (docstring) :
+## Commentaire (docstring) :
 
 """ lorem ipsum """
 
